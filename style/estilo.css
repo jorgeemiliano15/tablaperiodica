@@ -1,0 +1,186 @@
+.naranja{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(245,128, 33);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+h1{
+    font-family:'Bubblegum Sans', sans-serif;
+    background-color:rgb(0, 0, 0);
+    border-radius: 15px;
+    text-align:center;
+    font-size:50px;
+    color:rgb(255, 255, 255);
+    text-shadow: 20px rgb(28, 217, 3);
+    display:flex;
+    margin-left:350px;
+    margin-right:517px;
+    margin-bottom:50px;
+    margin-top:10px;
+    text-shadow: 
+    0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00,0 0 40px #008f00, 0 0 60px #008f00;
+}
+body{
+    background-image:url("../imagenes/fondo_quimica.jpg");
+}
+.tabla{
+    background-image:url("../imagenes/fondo_quimica.jpg");
+    width:1500px;
+    height:500px;
+    padding:150px;
+    font-family:'Bubblegum Sans', sans-serif;
+}
+.falso{
+    background-color: hsla(0, 0%, 0%, 0); 
+    width: 70px;
+    height: 110px;
+    color: white;
+    border: 3px solid hsla(0, 0%, 0%, 0);
+    border-radius: 5px;
+}
+.texto{
+    color:rgb(255, 255, 255);
+    margin:1%; 
+    text-align:center;
+    font-size:25px; 
+
+}
+.nombre{
+    color:rgb(255, 255, 255);
+    margin: 1%; 
+    text-align:center;
+    font-size:x-small;
+
+}
+.masa{
+    margin-top:1px;
+    color:white;
+    font-size: x-small;
+    text-align:center;
+
+}
+.numero{
+    color:white;
+    font-size: x-small;
+    margin-left: 5px;
+    display:flex;
+    margin-right:50px;
+
+}
+.azul1{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(0,42,78);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.amarillo{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(253,186,18);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.celeste{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(0,136,206);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.morado{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(120,30,119);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.rojo{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(237,25,69);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.verde1{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(162,180,32);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.verde2{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(0,106,54);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.verde3{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(103,164,132);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.beige{
+    width: 70px;
+    height: 110px;
+    background-color:rgb(203,212,142);
+    display:flex;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    flex-direction:column;
+}
+.periodo1{
+    display:flex;
+}
+.periodo2{
+    display:flex;
+}
+.periodo3{
+    display:flex;
+}
+.periodo4{
+    display:flex;
+}
+.periodo5{
+    display:flex;
+}
+.periodo6{
+    display:flex;
+}
+.periodo7{
+    display:flex;
+}
+.periodo8{
+    display:flex;
+}
+.periodo9{
+    display:flex;
+}
+@font-face {
+    font-family: 'Bubblegum Sans';
+    src: url('../fuentes/Bubblegum_Sans/BubblegumSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
